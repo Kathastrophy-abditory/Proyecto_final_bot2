@@ -1,0 +1,3 @@
+Mi idea es...
+
+Crear un bot de discord al que le puedan pedir información básica pero informativa spbre que es el cambio climatico, y más iimportante, le puedas pedir una noticia reciente/importante sobre el cambio climaatico, dandote una imagen, el titulo, y el link a la noticia
